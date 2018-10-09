@@ -6,6 +6,9 @@ class Dog
     @name = self
   end 
   
+  def name 
+  end 
+  
   
   
 end 
